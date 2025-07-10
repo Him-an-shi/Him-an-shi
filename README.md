@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Himanshi Pathak.  
 
-💻 **First-Year CS Student | Aspiring Software Engineer | Tech Enthusiast**  
+💻 **Second-Year CS Student | Aspiring Software Engineer | Tech Enthusiast**  
 
 #### 🚀 About Me  
 - Currently exploring **programming, problem-solving, and software development**.  
