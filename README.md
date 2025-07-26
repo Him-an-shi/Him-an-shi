@@ -1,7 +1,6 @@
 ### Hi there! 👋 I'm Himanshi Pathak.  
 
-[Mr fr](https://pin.it/3gkM0YFs8)
-
+![Image](https://github.com/user-attachments/assets/19145fbb-d241-454b-8969-b0ad7cca1cba)<img width="256" height="384" alt="Image" src="https://github.com/user-attachments/assets/48cc5f48-8ed6-4d9f-a9bb-ba861a8bcacd" />
 
 💻 **Second-Year CS Student | Aspiring Software Engineer | Tech Enthusiast**  
 
