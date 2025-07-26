@@ -1,4 +1,7 @@
 ### Hi there! 👋 I'm Himanshi Pathak.  
+
+![typing](https://pin.it/4gPRYTmOO.gif)
+
 💻 **Second-Year CS Student | Aspiring Software Engineer | Tech Enthusiast**  
 
 #### 🚀 About Me  
