@@ -1,6 +1,7 @@
 ### Hi there! 👋 I'm Himanshi Pathak.  
 
-![typing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-computer-gif-anime-computer-typing-discover-share-gifs--677369600229437083%2F&psig=AOvVaw0Ic7woVGWQWTRs6pG05t_o&ust=1753579284168000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDJ_K2u2Y4DFQAAAAAdAAAAABAE.gif)
+[Mr fr](https://pin.it/3gkM0YFs8)
+
 
 💻 **Second-Year CS Student | Aspiring Software Engineer | Tech Enthusiast**  
 
