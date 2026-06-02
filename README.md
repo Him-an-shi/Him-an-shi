@@ -22,7 +22,8 @@
 
 <td width="40%" align="center">
 
-  <img src="./assets/coding-girl.gif" width="100%" /> 
+ <img alt="Coding girl" src="https://github.com/user-attachments/assets/e2434ad5-f181-4694-8a7c-331e05489973" /> 
+ 
 
 </td>
 
