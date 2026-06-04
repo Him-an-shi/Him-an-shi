@@ -6,23 +6,28 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=45&pause=1000&color=FFD700&center=true&vCenter=true&width=1200&height=60&lines=Learning+DSA+%26+Full-Stack+Development;Building+%E2%80%A2+Learning+%E2%80%A2+Growing;Code.+Create.+Improve." alt="Typing SVG" /></a>
 
 </p>
-# 💫 About Me
+💫 About Me
 <table>
 <tr>
 
 <td width="60%" valign="top">
 
 💻 Second-Year Computer Science Engineering Student  
+<br>
 🚀 Aspiring Software Engineer passionate about building impactful tech  
+<br>
 📚 Currently learning Data Structures & Algorithms and Full-Stack Development  
+<br>
 ⚡ Solving problems on LeetCode, Codeforces & HackerRank  
+<br>
 🌱 Exploring real-world software applications and open-source contributions  
+<br>
 
 </td>
 
 <td width="40%" align="center">
 
- <img alt="Coding girl" src="https://github.com/user-attachments/assets/e2434ad5-f181-4694-8a7c-331e05489973" /> 
+ <img alt="Coding girl" src="https://github.com/user-attachments/assets/e2434ad5-f181-4694-8a7c-331e05489973" width="450"  height="300"/> 
  
 
 </td>
@@ -50,7 +55,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Him-an-shi&theme=tokyonight-duo&short_numbers=true&card_height=200" />
+  <img src="https://streak-stats.demolab.com?user=Him-an-shi&theme=tokyonight-duo&short_numbers=true&card_height=200" width="100%"/>
 </p>
 
 <p align="center">
