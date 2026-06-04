@@ -27,7 +27,7 @@
 
 <td width="40%" align="center">
 
- <img alt="Coding girl" src="https://github.com/user-attachments/assets/e2434ad5-f181-4694-8a7c-331e05489973" width="450"  height="300"/> 
+ <img alt="Coding girl" src="https://github.com/user-attachments/assets/e2434ad5-f181-4694-8a7c-331e05489973" width="400"  height="250"/> 
  
 
 </td>
