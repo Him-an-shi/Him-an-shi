@@ -2,8 +2,8 @@
 <!-- HEADER -->
 <p align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:090979,50:020024,100:000000&text=Himanshi%20Pathak&fontColor=FFD700&fontAlignY=40&animation=fadeIn" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=45&pause=1000&color=FFD700&center=true&vCenter=true&width=1200&height=60&lines=Learning+DSA+%26+Full-Stack+Development;Building+%E2%80%A2+Learning+%E2%80%A2+Growing;Code.+Create.+Improve." alt="Typing SVG" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090979,50:020024,100:000000&text=Himanshi%20Pathak&fontColor=FFD700&fontAlignY=40&animation=fadeIn" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=45&pause=1000&color=FFD700&center=true&vCenter=true&width=1200&height=50&lines=Learning+DSA+%26+Full-Stack+Development;Building+%E2%80%A2+Learning+%E2%80%A2+Growing;Code.+Create.+Improve." alt="Typing SVG" /></a>
 
 </p>
 💫 About Me
