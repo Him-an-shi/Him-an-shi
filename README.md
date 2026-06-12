@@ -1,4 +1,3 @@
-
 <!-- HEADER -->
 <p align="center">
 
@@ -83,7 +82,10 @@
 
 ---
 
-
+<img src="https://readmeme.eu.cc/api/timezone.svg?timezone=Asia%2FKolkata&theme=classic&timeFormat=24h" alt="Timezone Banner" />
+<br>
+<H2>WORD OF THE DAY:</H2>
+<img src="https://readmeme.eu.cc/api/word.svg?theme=classic&label=Local+Time&showOrigin=1" alt="Word of the Day" />
 <!-- FOOTER -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:090979,50:020024,100:000000&animation=fadeIn" />
