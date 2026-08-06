@@ -10,7 +10,7 @@
 
 <td width="60%" valign="top">
 
-💻 Second-Year Computer Science Engineering Student  
+💻 Third-Year Computer Science Engineering Student  
 <br>
 🚀 Aspiring Software Engineer passionate about building impactful tech  
 <br>
